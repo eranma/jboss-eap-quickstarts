@@ -22,7 +22,7 @@
         <groupId>org.jboss.eap.quickstarts</groupId>
         <artifactId>quickstart-parent</artifactId>
         <version>7.1.0.Beta1-SNAPSHOT</version>
-        <relativePath>https://github.com/eranma/jboss-eap-quickstarts/blob/7.1.0.Beta/websocket-hello/pom.xml</relativePath>
+        <relativePath>https://github.com/eranma/jboss-eap-quickstarts/blob/7.1.0.Beta/pom.xml</relativePath>
     </parent>
     <artifactId>websocket-hello</artifactId>
     <packaging>war</packaging>
