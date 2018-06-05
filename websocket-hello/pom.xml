@@ -18,12 +18,12 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <!-- parent>
+    <parent>
         <groupId>org.jboss.eap.quickstarts</groupId>
         <artifactId>quickstart-parent</artifactId>
         <version>7.1.0.Beta1-SNAPSHOT</version>
         <relativePath>../jboss-eap-quickstarts/pom.xml</relativePath>
-    </parent -->
+    </parent>
     <artifactId>websocket-hello</artifactId>
     <packaging>war</packaging>
     <name>${qs.name.prefix} websocket-hello</name>
