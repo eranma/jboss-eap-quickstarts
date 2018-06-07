@@ -29,6 +29,7 @@
     <packaging>war</packaging>
     <name>${qs.name.prefix} websocket-hello</name>
     <description>This project demonstrates a simple Hello WebSocket application</description>
+    <version>1</version>
 
     <licenses>
         <license>
